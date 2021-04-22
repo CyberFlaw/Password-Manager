@@ -1,9 +1,9 @@
-This is a password manager...
+This is this project
 
 How to get stated:
 
-Step 1: Clone the repo
-Step 2: Run `$npm install`
-Step 3: Use `$npm start` to run the react app at localhost 5000
-Step 4: Use `$npm run electron` to run the electron dev window
-Step 5: Code
+Step 1: Clone the repo <br />
+Step 2: Run `$npm install` <br />
+Step 3: Use `$npm start` to run the react app at localhost 5000<br />
+Step 4: Use `$npm run electron` to run the electron dev window<br />
+Step 5: Code <br />
