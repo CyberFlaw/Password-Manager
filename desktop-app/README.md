@@ -1,5 +1,3 @@
-This is this project
-
 How to get stated:
 
 Step 1: Clone the repo <br />
