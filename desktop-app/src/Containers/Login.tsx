@@ -23,6 +23,7 @@ export default function Login() {
           flexDirection: "column",
           height: "100vh",
           width: "100%",
+          boxShadow: "10px 10px 5px black",
         }}
       >
         <div style={{ display: "flex" }}>
