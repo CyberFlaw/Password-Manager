@@ -1,0 +1,19 @@
+.window-controls {
+  height: 10vh;
+  color: rgb(13, 12, 32);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  color: white;
+  margin-left: 20;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
